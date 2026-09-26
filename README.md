@@ -11,6 +11,8 @@ Bạn đưa vào giọng đọc + file phụ đề `.srt` và một mớ ảnh/v
 | 🪟 **Windows** | `CutCap.Setup.<phiên bản>.exe` |
 | 🍎 **macOS** (Intel & Apple Silicon) | `CutCap-<phiên bản>-universal.dmg` |
 
+![Giao diện làm việc của CutCap](anh/02-ghep-hinh.jpg)
+
 ---
 
 ## Công cụ làm được gì
@@ -39,11 +41,17 @@ Cắt khe, gộp khe, kéo ranh giới, đổi ảnh. Sai thì hoàn tác bằng
 **📤 Xuất video**
 MP4 ngang **16:9** hoặc dọc **9:16** (hợp TikTok, Reels, Shorts), tới **1080p 60 khung hình/giây**, có tăng tốc GPU.
 
+![Hộp thoại xuất video](anh/03-xuat-video.jpg)
+
 **🎬 Chuyển sang CapCut**
 Muốn chỉnh thêm? Một nút tạo sẵn dự án CapCut đầy đủ hình, giọng đọc và **phụ đề** để bạn dựng tiếp theo ý mình.
 
 **💾 Lưu dự án**
 Lưu thành file `.cutcap`, mở lại làm tiếp bất cứ lúc nào.
+
+### Mở app là bắt đầu ngay
+
+![Màn hình bắt đầu](anh/01-man-hinh-bat-dau.jpg)
 
 ---
 
